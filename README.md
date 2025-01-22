@@ -67,8 +67,8 @@ This project provided hands-on experience in:
 2. **Star Schema:**
    - A diagram of the Star Schema design is included in this repository.
 
-3. **ETL Notebook:**
-   - If you'd like to explore the ETL process in detail, let me know, and I can share the `ETL.ipynb` file.
+3. **ETL:**
+   - You will find the ETL process in python code (extract.py/transform.py/load.py).
 
 4. **Dashboards:**
    - Power BI dashboards showcasing sales insights are included for visualization.
